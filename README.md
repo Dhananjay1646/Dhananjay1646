@@ -5,8 +5,8 @@
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:dhananjay1646@gmail.com)
 
 - 👀 I’m interested in Microwave Imaging, Reinforcement learning.
-- 🌱 I’m currently learning Optimization Algorithms
-- 💞️ I’m looking to collaborate on Optimization Algorithms implementation
+- 🌱 Currently learning Optimization Algorithms
+- 👯 Also looking to collaborate on Optimization Algorithms implementation
 
 <!---
 Dhananjay1646/Dhananjay1646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 💞️
 --->
