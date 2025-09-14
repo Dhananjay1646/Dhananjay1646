@@ -1,5 +1,7 @@
 ### 👋 Hey hiiii, I’m Dhananjay !<br /> &nbsp; &nbsp; &nbsp; Finally...., you found me.... :blush:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhananjay1646&label=Views&color=blueviolet&style=plastic" alt="Dhananjay1646" /> </p>
+
 [![Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=FAef_A4AAAAJ&hl=en)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhananjay-magdum/)
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:dhananjay1646@gmail.com)
