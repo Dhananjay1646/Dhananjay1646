@@ -24,3 +24,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💞️
 --->
+
+**Languages and Tools:**  
+
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="100" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> 
+
+<a href="https://github.com/DhananjayNarayan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhananjay1646&theme=great-gatsby&layout=compact&langs_count=10" />
+</a>
+<a href="https://github.com/DhananjayNarayan">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhananjay1646&show_icons=true&theme=great-gatsby&line_height=27" alt="Dhananjay's github stats"/>
+</a>
